@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "name": "pranali jahagirdar",
+      "email": "jahagirdarpranali3409@gmail.com",
+      "address": "nashik",
+      "id": 1
+    },
+    {
+      "name": "sakshi sawant",
+      "email": "sakshisawant@gmail.com",
+      "address": "Ahemdnagar",
+      "id": 2
+    },
+    {
+      "name": "krushnali pawar",
+      "email": "krushnali@gmail.com",
+      "address": "Pune",
+      "id": 3
+    }
+  ]
+}
